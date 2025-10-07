@@ -1,0 +1,16 @@
+{
+    "name": "Amani Solutions Portfolio",
+    "short_name":"Amani",
+    "start_url":"index.html",
+    "display":"standalone",
+    "background_color":"#0066cc",
+    "theme_color":"#0066cc",
+    "icons":[
+        {
+            "src":"logo.jpg",
+            "sizes":"192*192",
+            "type":"image/jpg"
+        }
+    ]
+}
+
